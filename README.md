@@ -5,11 +5,11 @@
 |          Challenge Name           | Points     |
 | :-------------------------------: | ---------- |
 |              **PWN**              |            |
-|       [Check Check Check]()       | 50 points  |
-|            [prison]()             | 100 points |
-|           [Pathcode]()            | 150 points |
-|           [noooooob]()            | 250 points |
-|           TrigeerMaster           | 350 points |
+|       [Check Check Check](https://github.com/mcpivoy/T3N4CI0US-CTF-WriteUp/tree/main/pwn/Check%20Check%20Check)       | 50 points  |
+|            [prison](https://github.com/mcpivoy/T3N4CI0US-CTF-WriteUp/tree/main/pwn/prison)             | 100 points |
+|           [Pathcode](https://github.com/mcpivoy/T3N4CI0US-CTF-WriteUp/tree/main/pwn/pathcode)            | 150 points |
+|           [noooooob](https://github.com/mcpivoy/T3N4CI0US-CTF-WriteUp/tree/main/pwn/noooooob)            | 250 points |
+|           [TrigeerMaster](https://github.com/mcpivoy/T3N4CI0US-CTF-WriteUp/tree/main/pwn/TriggerMaster)           | 350 points |
 |             **MISC**              |            |
 |              find me              | 100 points |
 |              Find us              | 200 points |
