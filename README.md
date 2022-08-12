@@ -2,20 +2,32 @@
 
 在这次比赛中我所完成的题目
 
-|                        Challenge Name                        | Points     |
-| :----------------------------------------------------------: | ---------- |
-| [RANDOM]() | 50 points  |
-| [WINNER]() | 50 points  |
-| [LOST]() | 338 points |
-| [THREADZ]() | 385 points |
-|                           OBSCURE                            | 50 points  |
-|                           MAFIOSO                            | 50 points  |
-|                            BASIC                             | 50 points  |
-|                            RULES                             | 50 points  |
-|                            SOURCE                            | 50 points  |
-|                            COLORS                            | 64 points  |
-|                             PONG                             | 50 points  |
-|                       ROBOTS AND MUSIC                       | 50 points  |
+|          Challenge Name           | Points     |
+| :-------------------------------: | ---------- |
+|              **PWN**              |            |
+|       [Check Check Check]()       | 50 points  |
+|            [prison]()             | 100 points |
+|           [Pathcode]()            | 150 points |
+|           [noooooob]()            | 250 points |
+|           TrigeerMaster           | 350 points |
+|             **MISC**              |            |
+|              find me              | 100 points |
+|              Find us              | 200 points |
+|              re They              | 150 points |
+|            **Crypto**             |            |
+|              french               | 100 points |
+| Before Porta arrives at the port! | 200 points |
+|                ro                 | 200 points |
+|                one                | 300 points |
+|           **Reversing**           |            |
+|              Warmup               | 50 points  |
+|              Rooftop              | 150 points |
+|              WHISEN               | 100 points |
+|               Swood               | 250 points |
+|              **Web**              |            |
+|             cigarette             | 250 points |
+|               world               | 350 points |
+|               VISKA               | 50 points  |
 
 # Competition Results:
 
