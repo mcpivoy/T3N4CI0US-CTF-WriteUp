@@ -19,6 +19,6 @@
 
 # Competition Results:
 
-Scored: 1223 points
+Scored: 3270 points
 
-Placed: 156 place
+Placed: 30 place
