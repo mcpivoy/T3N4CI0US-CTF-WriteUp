@@ -15,7 +15,7 @@
 |             **MISC**              |            |
 |              find me              | 100 points |
 |              Find us              | 200 points |
-|              re They              | 150 points |
+|              [re They](https://github.com/mcpivoy/T3N4CI0US-CTF-WriteUp/tree/main/misc/re%20They)              | 150 points |
 |            **Crypto**             |            |
 |              french               | 100 points |
 | [Before Porta arrives at the port!](https://github.com/mcpivoy/T3N4CI0US-CTF-WriteUp/tree/main/Crypto/Before%20Porta%20arrives%20at%20the%20port!) | 200 points |
