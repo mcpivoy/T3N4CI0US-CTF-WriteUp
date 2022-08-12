@@ -1,5 +1,6 @@
 # T3N4CI0OUS-CTF-2022-Writeup
 
+这次的OSINT部分比较遗憾 一题没出
 在这次比赛中我所完成的题目
 
 |          Challenge Name           | Points     |
