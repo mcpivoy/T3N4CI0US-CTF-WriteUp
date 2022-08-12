@@ -1,0 +1,1 @@
+26s + 8t = 2( == gcd(26,8)) + 12345 for the correct answer
